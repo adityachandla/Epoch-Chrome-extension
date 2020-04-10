@@ -1,6 +1,6 @@
 # Epoch to Human chrome extension
 ## Installation
-1. ```git clone https://github.com/adityachandla/epoch_to_human_chrome_extension```
+1. ```git clone https://github.com/adityachandla/Epoch-Chrome-extension```
 2. In chrome open 'chrome://extensions'
 3. Click on load unpacked and select the folder where you cloned the repository
 
